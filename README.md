@@ -6,7 +6,7 @@ A fast, infinite-canvas whiteboard that runs entirely in your browser. It's two 
 
 ## Why
 
-This project is one HTML page and one JavaScript file. Open it and start drawing. Your board saves to your browser's local storage as you go, so it's there the next time you open the page. Nothing leaves your machine unless you export it.
+This project allows you to whiteboard locally, directly in the browser. It's one HTML page and one JavaScript file. Open it and start drawing. Your board saves to your browser's local storage as you go, so it's there the next time you open the page. Nothing leaves your machine unless you export it.
 
 ## Features
 
